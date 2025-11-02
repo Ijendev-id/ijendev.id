@@ -18,7 +18,7 @@
     <!-- Open Graph / Facebook / WhatsApp -->
     <meta property="og:title" content="Ijendev.id | Jasa Pembuatan Website & Aplikasi Profesional">
     <meta property="og:description" content="Bangun website dan aplikasi impian Anda bersama Ijendev.id — software house terpercaya dari Indonesia. Solusi digital, cepat, transparan, dan hasil berkualitas.">
-    <meta property="og:image" content="https://ijendev.id/assets_landing/images/logo/ijen.png">
+    <meta property="og:image" content="https://ijendev.id/assets_landing/images/logo/ijendev.png">
     <meta property="og:url" content="https://ijendev.id/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Ijendev.id">
@@ -27,13 +27,13 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ijendev.id | Jasa Pembuatan Website & Aplikasi Profesional">
     <meta name="twitter:description" content="Software house terpercaya untuk solusi digital, website, aplikasi, dan IoT. Bekerja cepat, transparan, dan profesional.">
-    <meta name="twitter:image" content="https://ijendev.id/assets_landing/images/logo/ijen.png">
+    <meta name="twitter:image" content="https://ijendev.id/assets_landing/images/logo/ijendev.png">
 
 
     <!--====== Favicon Icon ======-->
     <link
       rel="shortcut icon"
-      href="assets_landing/images/logo/ijen.png"
+      href="assets_landing/images/logo/ijendev.png"
       type="image/png"
     />
 
@@ -558,13 +558,11 @@
               <div class="counter-content">
                 <div class="section-title">
                   <div class="line"></div>
-                  <h3 class="title">Cool facts <span> about this app</span></h3>
+                  <h3 class="title">Fakta Menarik<span> Tentang Ijendev.id</span></h3>
                 </div>
                 <!-- section title -->
                 <p class="text">
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam
-                  nonumy eirmod tempor invidunt ut labore et dolore magna
-                  aliquyam erat, sed diam voluptua.
+                  Dibangun oleh tim muda kreatif dari Indonesia, Ijendev.id menghadirkan layanan pembuatan website, aplikasi, dan sistem digital yang cepat, aman, dan sesuai kebutuhan bisnis Anda.
                 </p>
               </div>
               <!-- counter content -->
@@ -582,10 +580,10 @@
                     <div class="counter-items text-center">
                       <span
                         class="count countup text-uppercase"
-                        cup-end="125"
+                        cup-end="10+"
                       ></span>
 
-                      <p class="text">Downloads</p>
+                      <p class="text">Clients</p>
                     </div>
                   </div>
                   <!-- single counter -->
