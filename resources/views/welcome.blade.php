@@ -9,6 +9,27 @@
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+
+    <meta name="description" content="Ijendev.id adalah software house profesional yang menyediakan jasa pembuatan website, aplikasi mobile, dan solusi digital terintegrasi untuk bisnis, instansi, dan UMKM di seluruh Indonesia.">
+    <meta name="keywords" content="ijendev,id, software house, jasa pembuatan website, jasa pembuatan aplikasi, jasa web malang, jasa app android, digital agency indonesia">
+    <meta name="author" content="Ijen Developer Indonesia">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:title" content="Ijendev.id | Jasa Pembuatan Website & Aplikasi Profesional">
+    <meta property="og:description" content="Bangun website dan aplikasi impian Anda bersama Ijendev.id — software house terpercaya dari Indonesia. Solusi digital, cepat, transparan, dan hasil berkualitas.">
+    <meta property="og:image" content="https://ijendev.id/assets_landing/images/logo/ijen.png">
+    <meta property="og:url" content="https://ijendev.id/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Ijendev.id">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Ijendev.id | Jasa Pembuatan Website & Aplikasi Profesional">
+    <meta name="twitter:description" content="Software house terpercaya untuk solusi digital, website, aplikasi, dan IoT. Bekerja cepat, transparan, dan profesional.">
+    <meta name="twitter:image" content="https://ijendev.id/assets_landing/images/logo/ijen.png">
+
+
     <!--====== Favicon Icon ======-->
     <link
       rel="shortcut icon"
@@ -799,10 +820,10 @@
                   data-wow-delay="0.4s"
                 >
                   <div class="footer-title">
-                    <h4 class="title">Quick Link</h4>
+                    <h4 class="title"></h4>
                   </div>
                   <ul class="link">
-                    <li><a href="javascript:void(0)">Login Admin</a></li>
+                    <li><a href="javascript:void(0)"></a></li>
 
                   </ul>
                 </div>
