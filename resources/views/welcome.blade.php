@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
 
     <!--====== Title ======-->
-    <title>Basic - SaaS Landing Page</title>
+    <title>Ijendev.id | Jasa Pembuatan Web dan Aplikasi</title>
 
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -12,7 +12,7 @@
     <!--====== Favicon Icon ======-->
     <link
       rel="shortcut icon"
-      href="assets_landing/images/favicon.png"
+      href="assets_landing/images/logo/ijen.png"
       type="image/png"
     />
 
@@ -107,7 +107,7 @@
                   <a
                     class="main-btn"
                     data-scroll-nav="0"
-                    href="https://uideck.com/templates/basic/"
+                    href="https://api.whatsapp.com/send/?phone=6282139590210&text&type=phone_number&app_absent=0"
                     rel="nofollow"
                   >
                     Hubungi Sekarang
@@ -154,7 +154,7 @@
                   Desain modern & cepat diakses | Pengembangan aman dan scalable | Dukungan after-sales yang responsif
                 </p>
                 <a
-                  href="javascript:void(0)"
+                  href="https://api.whatsapp.com/send/?phone=6282139590210&text&type=phone_number&app_absent=0"
                   class="main-btn wow fadeInUp"
                   data-wow-duration="1.3s"
                   data-wow-delay="1.1s"
