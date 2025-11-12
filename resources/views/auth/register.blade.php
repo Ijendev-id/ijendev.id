@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ config('app.name', 'Laravel') }} — Register</title>
+    <title>{{ config('app.name', 'ijendev | Register') }} — Register</title>
 
     {{-- Google Fonts: Nunito (SB Admin 2) --}}
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900" rel="stylesheet">

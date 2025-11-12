@@ -7,13 +7,10 @@
     <meta name="description" content="@yield('meta_description', '')">
     <meta name="author" content="@yield('meta_author', '')">
 
-    {{-- CSRF token untuk JS jika diperlukan --}}
-    <meta name="csrf-token" content="{{ csrf_token() }}">
-
     <title>@yield('title', 'Dashboard') - {{ config('app.name', 'App') }}</title>
 
     {{-- Fonts --}}
-    <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
     {{-- Vendor CSS --}}
     <link href="{{ asset('assets_dashboard/vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
@@ -21,13 +18,12 @@
     {{-- SB Admin 2 CSS --}}
     <link href="{{ asset('assets_dashboard/css/sb-admin-2.min.css') }}" rel="stylesheet">
 
-    {{-- tambahan CSS dari child views --}}
     @stack('extra_css')
 </head>
 <body id="page-top">
     <div id="wrapper">
         {{-- Sidebar --}}
-        @include('layouts.nav')
+        @include('user.layouts.nav')
 
         {{-- Content Wrapper --}}
         <div id="content-wrapper" class="d-flex flex-column">
@@ -84,11 +80,8 @@
     {{-- SB Admin 2 JS --}}
     <script src="{{ asset('assets_dashboard/js/sb-admin-2.min.js') }}"></script>
 
-    {{-- Optional: Charts atau vendor lain --}}
+    {{-- Optional: Charts --}}
     @stack('vendor_js')
     @stack('extra_js')
-
-    {{-- Tempat untuk @push('scripts') dari child views (harus di akhir supaya jQuery/Bootstrap sudah tersedia) --}}
-    @stack('scripts')
 </body>
 </html>

@@ -5,7 +5,6 @@
 
     <!--====== Title ======-->
     <title>Ijendev.id | Jasa Pembuatan Web dan Aplikasi</title>
-
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -106,16 +105,10 @@
                       <a class="page-scroll active" href="#home">Home</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="#features">Features</a>
-                    </li>
-                    <li class="nav-item">
                       <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li class="nav-item">
                       <a class="page-scroll" href="#facts">Why</a>
-                    </li>
-                    <li class="nav-item">
-                      <a href="javascript:void(0)">Team</a>
                     </li>
                     <li class="nav-item">
                       <a href="javascript:void(0)">Blog</a>
@@ -580,7 +573,7 @@
                     <div class="counter-items text-center">
                       <span
                         class="count countup text-uppercase"
-                        cup-end="10+"
+                        cup-end="1"
                       ></span>
 
                       <p class="text">Clients</p>
@@ -601,7 +594,7 @@
                     <div class="counter-items text-center">
                       <span
                         class="count countup text-uppercase"
-                        cup-end="87"
+                        cup-end="1"
                       ></span>
                       <p class="text">Active Users</p>
                     </div>
@@ -621,9 +614,9 @@
                     <div class="counter-items text-center">
                       <span
                         class="count countup text-uppercase"
-                        cup-end="59"
+                        cup-end="1"
                       ></span>
-                      <p class="text">User Rating</p>
+                      <p class="text">Project</p>
                     </div>
                   </div>
                   <!-- single counter -->
@@ -745,153 +738,118 @@
 
     <!--====== FOOTER PART START ======-->
     <footer id="footer" class="footer-area pt-120">
-      <div class="container">
-        <div
-          class="subscribe-area wow fadeIn"
-          data-wow-duration="1s"
-          data-wow-delay="0.5s"
-        >
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="subscribe-content mt-45">
-                <h2 class="subscribe-title">
-                  Subscribe Our Newsletter <span>get reguler updates</span>
-                </h2>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="subscribe-form mt-50">
-                <form action="#">
-                  <input type="text" placeholder="Enter eamil" />
-                  <button class="main-btn">Subscribe</button>
-                </form>
-              </div>
-            </div>
-          </div>
-          <!-- row -->
-        </div>
-        <!-- subscribe area -->
-        <div class="footer-widget pb-100">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-sm-8">
-              <div
-                class="footer-about mt-50 wow fadeIn"
-                data-wow-duration="1s"
-                data-wow-delay="0.2s"
-              >
-                <a class="logo" href="javascript:void(0)">
-                  <img src="assets_landing/images/logo/iii.png" alt="logo" />
-                </a>
-                <p class="text">
-                  Bersama IjenDev.id, wujudkan ide digital Anda menjadi solusi nyata yang mendorong kemajuan bisnis..
-                </p>
-                <ul class="social">
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-facebook-filled"> </i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-twitter-filled"> </i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-instagram-filled"> </i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-linkedin-original"> </i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <!-- footer about -->
-            </div>
-            <div class="col-lg-5 col-md-7 col-sm-12">
-              <div class="footer-link d-flex mt-50 justify-content-sm-between">
-                <div
-                  class="link-wrapper wow fadeIn"
-                  data-wow-duration="1s"
-                  data-wow-delay="0.4s"
-                >
-                  <div class="footer-title">
-                    <h4 class="title"></h4>
-                  </div>
-                  <ul class="link">
-                    <li><a href="javascript:void(0)"></a></li>
+  <div class="container">
 
-                  </ul>
-                </div>
-                <!-- footer wrapper -->
-                <div
-                  class="link-wrapper wow fadeIn"
-                  data-wow-duration="1s"
-                  data-wow-delay="0.6s"
-                >
-                  <div class="footer-title">
-                    <h4 class="title"></h4>
-                  </div>
-                  <ul class="link">
-                    {{-- <li><a href="javascript:void(0)">Home</a></li>
-                    <li><a href="javascript:void(0)">Page</a></li>
-                    <li><a href="javascript:void(0)">Portfolio</a></li>
-                    <li><a href="javascript:void(0)">Blog</a></li>
-                    <li><a href="javascript:void(0)">Contact</a></li> --}}
-                  </ul>
-                </div>
-                <!-- footer wrapper -->
-              </div>
-              <!-- footer link -->
-            </div>
-            <div class="col-lg-3 col-md-5 col-sm-12">
-              <div
-                class="footer-contact mt-50 wow fadeIn"
-                data-wow-duration="1s"
-                data-wow-delay="0.8s"
-              >
-                <div class="footer-title">
-                  <h4 class="title">Contact Us</h4>
-                </div>
-                <ul class="contact">
-                  <li>+6282139590210</li>
-                  <li>admin@ijendev.id</li>
-                  <li>
-                    Dsn Krajan, Ds Aliyan, Kec Rogojampi <br />
-                    Kab Banyuwangi, Jawa Timur, 68462.
-                  </li>
-                </ul>
-              </div>
-              <!-- footer contact -->
-            </div>
+    <!-- CTA area: tombol WA + Management Client -->
+    <div class="row mb-5 justify-content-center">
+      <div class="col-lg-12">
+        <div
+          class="cta-box p-4 p-md-5 bg-white shadow-lg rounded-4 d-flex flex-column flex-lg-row align-items-center justify-content-between wow fadeIn"
+          data-wow-duration="1s"
+          data-wow-delay="0.3s"
+        >
+          <div class="text-center text-lg-start mb-3 mb-lg-0">
+            <h3 class="fw-bold mb-2" style="color:#111;">Digitalisasi bareng <span style="color:#0061f2;">Ijendev.id</span></h3>
+            <p class="mb-0 text-muted">
+              Wujudkan ide digital Anda menjadi solusi nyata — konsultasi gratis lewat WhatsApp.
+            </p>
           </div>
-          <!-- row -->
-        </div>
-        <!-- footer widget -->
-        <div class="footer-copyright">
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="copyright d-sm-flex justify-content-between">
-                <div class="copyright-content">
-                  <p class="text">
-                    Designed and Developed by
-                    <a href="https://ijendev.id" rel="nofollow">Ijendev.id</a>
-                  </p>
-                </div>
-                <!-- copyright content -->
-              </div>
-              <!-- copyright -->
-            </div>
+
+          <div class="d-flex align-items-center gap-3">
+            <!-- Tombol WhatsApp -->
+            <a
+              href="https://wa.me/6282139590210?text=Halo%20Ijendev%2C%20saya%20tertarik%20untuk%20digitalisasi%20bareng%20Ijendev.%20Bisa%20dibantu%3F"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-success d-flex align-items-center gap-2 px-4 py-2 rounded-pill shadow-sm"
+              style="font-weight:600;"
+            >
+              <i class="lni lni-whatsapp fs-5"></i> Hubungi Sekarang
+            </a>
+
+            <!-- Tombol Login / Management Client -->
+            <a
+              href="{{ route('login') }}"
+              class="btn btn-outline-primary d-flex align-items-center gap-2 px-4 py-2 rounded-pill"
+              style="font-weight:600;"
+            >
+              <i class="lni lni-lock fs-5"></i> Management Client
+            </a>
           </div>
-          <!-- row -->
         </div>
-        <!-- footer copyright -->
       </div>
-      <!-- container -->
-      <div id="particles-2"></div>
-    </footer>
+    </div>
+    <!-- /CTA area -->
+    
+
+    <!-- footer widget -->
+    <div class="footer-widget pb-100">
+      <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-8">
+          <div class="footer-about mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <a class="logo" href="#">
+              <img src="assets_landing/images/logo/iii.png" alt="logo" />
+            </a>
+            <p class="text">
+              Bersama IjenDev.id, wujudkan ide digital Anda menjadi solusi nyata yang mendorong kemajuan bisnis.
+            </p>
+            <ul class="social">
+              <li><a href="https://wa.me/6282139590210"><i class="lni lni-whatsapp"></i></a></li>
+              <li><a href="https://www.instagram.com/ijendev.id/"><i class="lni lni-instagram-filled"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/ijendev-id-ijend-developer-indonesia"><i class="lni lni-linkedin-original"></i></a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-lg-5 col-md-7 col-sm-12">
+          <div class="footer-link d-flex mt-50 justify-content-sm-between">
+            <div class="link-wrapper wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
+              <div class="footer-title"><h4 class="title"></h4></div>
+              <ul class="link"><li><a href="#"></a></li></ul>
+            </div>
+            <div class="link-wrapper wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
+              <div class="footer-title"><h4 class="title"></h4></div>
+              <ul class="link"></ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-5 col-sm-12">
+          <div class="footer-contact mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
+            <div class="footer-title"><h4 class="title">Contact Us</h4></div>
+            <ul class="contact">
+              <li>+62 821-3959-0210</li>
+              <li>admin@ijendev.id</li>
+              <li>
+                Dsn Krajan, Ds Aliyan, Kec Rogojampi <br />
+                Kab Banyuwangi, Jawa Timur, 68462.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- footer copyright -->
+    <div class="footer-copyright">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="copyright d-sm-flex justify-content-between">
+            <div class="copyright-content">
+              <p class="text">
+                Designed and Developed by
+                <a href="https://ijendev.id" rel="nofollow">Ijendev.id</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="particles-2"></div>
+</footer>
+
+
     <!--====== FOOTER PART ENDS ======-->
 
     <!--====== BACK TOP TOP PART START ======-->
